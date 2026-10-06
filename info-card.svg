@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="412" viewBox="0 0 560 412" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">
+<style>.l{opacity:0;animation:i .4s ease-out forwards}@keyframes i{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}}</style>
+<rect width="560" height="412" rx="10" fill="#0d1117"/>
+<circle cx="30" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="50" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="70" cy="22" r="6" fill="#27c93f"/>
+<g class="l" style="animation-delay:0.30s"><text x="24" y="62" font-weight="bold"><tspan fill="#39d353">youri</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39d353">github</tspan></text></g>
+<g class="l" style="animation-delay:0.42s"><text x="24" y="83" fill="#8b949e">------------</text></g>
+<g class="l" style="animation-delay:0.54s"><text x="24" y="104"><tspan fill="#58a6ff" font-weight="bold">Role</tspan><tspan x="114">Full-stack developer</tspan></text></g>
+<g class="l" style="animation-delay:0.66s"><text x="24" y="125"><tspan fill="#58a6ff" font-weight="bold">Now</tspan><tspan x="114">Co-founder @ Feldon</tspan></text></g>
+<g class="l" style="animation-delay:0.78s"><text x="24" y="146"><tspan fill="#58a6ff" font-weight="bold">Also</tspan><tspan x="114">De Graef Digital</tspan></text></g>
+<g class="l" style="animation-delay:0.90s"><text x="24" y="167"><tspan fill="#58a6ff" font-weight="bold">Study</tspan><tspan x="114">HBO-ICT @ Fontys</tspan></text></g>
+<g class="l" style="animation-delay:1.02s"><text x="24" y="188"><tspan fill="#58a6ff" font-weight="bold">Based</tspan><tspan x="114">Eindhoven, NL</tspan></text></g>
+<g class="l" style="animation-delay:1.14s"><text x="24" y="219"><tspan fill="#58a6ff" font-weight="bold">Backend</tspan><tspan x="114">.NET · Postgres · Node · Hono</tspan></text></g>
+<g class="l" style="animation-delay:1.26s"><text x="24" y="240"><tspan fill="#58a6ff" font-weight="bold">Frontend</tspan><tspan x="114">Nuxt · Next.js · Astro · Tailwind</tspan></text></g>
+<g class="l" style="animation-delay:1.38s"><text x="24" y="261"><tspan fill="#58a6ff" font-weight="bold">Infra</tspan><tspan x="114">Cloudflare · Supabase · Railway</tspan></text></g>
+<g class="l" style="animation-delay:1.50s"><text x="24" y="282"><tspan fill="#58a6ff" font-weight="bold">Focus</tspan><tspan x="114">APIs, databases, infrastructure</tspan></text></g>
+<g class="l" style="animation-delay:1.62s"><text x="24" y="313"><tspan fill="#58a6ff" font-weight="bold">Built</tspan><tspan x="114">Optimzd · ads dashboard for agencies</tspan></text></g>
+<g class="l" style="animation-delay:1.74s"><text x="24" y="334"><tspan fill="#58a6ff" font-weight="bold"></tspan><tspan x="114">Ombit · rental backoffice</tspan></text></g>
+<g class="l" style="animation-delay:1.86s"><text x="24" y="355"><tspan fill="#58a6ff" font-weight="bold"></tspan><tspan x="114">Verslokaal Leivere · website</tspan></text></g>
+<rect x="24" y="372" width="24" height="16" fill="#161b22"/>
+<rect x="48" y="372" width="24" height="16" fill="#f85149"/>
+<rect x="72" y="372" width="24" height="16" fill="#39d353"/>
+<rect x="96" y="372" width="24" height="16" fill="#d29922"/>
+<rect x="120" y="372" width="24" height="16" fill="#58a6ff"/>
+<rect x="144" y="372" width="24" height="16" fill="#bc8cff"/>
+<rect x="168" y="372" width="24" height="16" fill="#39c5cf"/>
+<rect x="192" y="372" width="24" height="16" fill="#c9d1d9"/>
+</svg>
