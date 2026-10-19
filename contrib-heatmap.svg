@@ -375,13 +375,14 @@
 <rect class="d" style="animation-delay:1008ms" x="802" y="134" width="12" height="12" rx="3" fill="#39d353"><title>2026-10-10: 699</title></rect>
 <rect class="d" style="animation-delay:918ms" x="817" y="44" width="12" height="12" rx="3" fill="#0e4429"><title>2026-10-11: 67</title></rect>
 <rect class="d" style="animation-delay:936ms" x="817" y="59" width="12" height="12" rx="3" fill="#0e4429"><title>2026-10-12: 78</title></rect>
-<rect class="d" style="animation-delay:954ms" x="817" y="74" width="12" height="12" rx="3" fill="#26a641"><title>2026-10-13: 246</title></rect>
-<rect class="d" style="animation-delay:972ms" x="817" y="89" width="12" height="12" rx="3" fill="#006d32"><title>2026-10-14: 103</title></rect>
+<rect class="d" style="animation-delay:954ms" x="817" y="74" width="12" height="12" rx="3" fill="#006d32"><title>2026-10-13: 246</title></rect>
+<rect class="d" style="animation-delay:972ms" x="817" y="89" width="12" height="12" rx="3" fill="#0e4429"><title>2026-10-14: 103</title></rect>
 <rect class="d" style="animation-delay:990ms" x="817" y="104" width="12" height="12" rx="3" fill="#0e4429"><title>2026-10-15: 43</title></rect>
 <rect class="d" style="animation-delay:1008ms" x="817" y="119" width="12" height="12" rx="3" fill="#006d32"><title>2026-10-16: 195</title></rect>
 <rect class="d" style="animation-delay:1026ms" x="817" y="134" width="12" height="12" rx="3" fill="#26a641"><title>2026-10-17: 278</title></rect>
-<rect class="d" style="animation-delay:936ms" x="832" y="44" width="12" height="12" rx="3" fill="#39d353"><title>2026-10-18: 406</title></rect>
-<text x="52" y="179" fill="#c9d1d9" font-size="12">4,533 contributions in the last year<tspan fill="#8b949e">  ·  streak 14d  ·  longest 14d  ·  best day 699</tspan></text>
+<rect class="d" style="animation-delay:936ms" x="832" y="44" width="12" height="12" rx="3" fill="#39d353"><title>2026-10-18: 531</title></rect>
+<rect class="d" style="animation-delay:954ms" x="832" y="59" width="12" height="12" rx="3" fill="#0e4429"><title>2026-10-19: 105</title></rect>
+<text x="52" y="179" fill="#c9d1d9" font-size="12">4,763 contributions in the last year<tspan fill="#8b949e">  ·  streak 15d  ·  longest 15d  ·  best day 699</tspan></text>
 <text x="723" y="179" fill="#8b949e" text-anchor="end">Less</text>
 <rect x="729" y="169" width="12" height="12" rx="3" fill="#161b22"/>
 <rect x="744" y="169" width="12" height="12" rx="3" fill="#0e4429"/>
